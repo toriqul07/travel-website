@@ -134,7 +134,7 @@
 }
 
 .banner-container {
-    background-image: url('../images/Group\ 13\ \(1\)\ \(1\).png');
+    background-image: url('../images/banner.png');
     width: 1210px;
     background-repeat: no-repeat;
     height: 500px;
@@ -380,7 +380,8 @@ background: #FF5400
     width: 672px;
 height: 422px;
 flex-shrink: 0;
-    background-image: url('./images/Rectangle\ 8\ \(1\).png');
+
+    background-image:linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%),url('./images/Group\ 13\ \(1\)\ \(1\).png');
 }
 .newsletter-img{
     position: relative;
