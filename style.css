@@ -380,7 +380,7 @@ background: #FF5400
     width: 672px;
 height: 422px;
 flex-shrink: 0;
-    background-image: url('../images/Rectangle\ 8\ \(1\).png');
+    background-image: url('./images/Rectangle\ 8\ \(1\).png');
 }
 .newsletter-img{
     position: relative;
