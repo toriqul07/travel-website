@@ -134,7 +134,7 @@
 }
 
 .banner-container {
-    background-image: url('../images/banner.png');
+    background-image: url('./images/banner.png');
     width: 1210px;
     background-repeat: no-repeat;
     height: 500px;
